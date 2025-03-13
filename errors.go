@@ -1,0 +1,3 @@
+package gotcpio
+
+var ()
